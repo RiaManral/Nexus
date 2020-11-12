@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "426624009706",
+    "firebase_url": "https://nexushealth-35869.firebaseio.com",
+    "project_id": "nexushealth-35869",
+    "storage_bucket": "nexushealth-35869.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426624009706:android:599e420ce9f0f14132de93",
+        "android_client_info": {
+          "package_name": "com.example.nexus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426624009706-28k0d84d4qkd91llg2jknfp3hfjkcmgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgoUGhScTqKoPo6Om-zM4b-rO_HF7dR84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426624009706-28k0d84d4qkd91llg2jknfp3hfjkcmgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
